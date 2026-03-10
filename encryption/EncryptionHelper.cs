@@ -2,6 +2,8 @@ using System.Security.Cryptography;
 using System.Text;
 using System.IO;
 
+namespace be_m1_calc.Encryption;
+
 public static class EncryptionHelper
 {
     private static string GetEncryptionKey()

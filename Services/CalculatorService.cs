@@ -1,4 +1,10 @@
+using System;
 using System.Globalization;
+using be_m1_calc;
+using be_m1_calc.Encryption;
+using be_m1_calc.Classes;
+
+namespace be_m1_calc.Services;
 
 public class CalculatorService
 {

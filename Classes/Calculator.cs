@@ -1,3 +1,8 @@
+using System;
+using be_m1_calc;
+
+namespace be_m1_calc.Classes;
+
 public class Calculator : ICalculator
 {
     public double AddNumbers(double a, double b) => a + b;

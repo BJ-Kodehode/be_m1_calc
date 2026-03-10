@@ -1,3 +1,5 @@
+namespace be_m1_calc;
+
 public interface ICalculator
 {
     double AddNumbers(double a, double b);
